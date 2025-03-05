@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BitFit</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="hours_hint">Enter hours slept</string>
+    <string name="date_hint">Enter date (YYYY-MM-DD)</string>
+    <string name="save">Save</string>
+</resources>
